@@ -52,14 +52,14 @@ By default the menu choices will have the same name as the file or
 directory, if you wish to have custom names for files then add the 
 following line at the beginning of the file:
 
-* Description: Your Cool name here
+         # Description: Your Cool name here
 
 For directories create a file in the directory named .message, or
 better yet, copy the file from the basedir and edit it to your 
 liking. An Example:
 
-* Name: The title of the menu
-* Description: The name shown in the parent menu
+         # Name: The title of the menu
+         # Description: The name shown in the parent menu
 
 Thats all there is to it.
 
